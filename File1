@@ -1,7 +1,7 @@
 [Notes]
-CONFIGFILE=C:\Users\683905\Desktop\lnConfig.txt
+CONFIGFILE=C:\Users\XXX\Desktop\lnConfig.txt
 KitType=1
-Directory=C:\users\683905\AppData\Local\IBM\Notes\Data
+Directory=C:\users\XXXXXX\AppData\Local\IBM\Notes\Data
 NotesProgram=c:\ProgramData\IBM\Notes\Data\Shared
 StackedIcons=0
 MenusAdvanced=1
